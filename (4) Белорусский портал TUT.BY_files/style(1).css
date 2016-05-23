@@ -1,0 +1,41 @@
+
+               .b-adfeed{
+                   display: block;
+                   font-size: 12px;
+                   line-height: 17px;
+                   margin: 6px auto;
+                   border: 1px solid #d8d8d8;
+                   -webkit-border-radius: 2px;
+                   -moz-border-radius: 2px;
+                   border-radius: 2px;
+                   overflow: hidden;
+                   padding: 8px;
+                   text-align: left;
+                   -webkit-transition: all 150ms;
+                   transition: all 150ms;
+               }
+               .b-adfeed:hover{
+                   background: #ffffff;
+                   border: 1px solid #e2e2e2;
+                   color: #c60a00;
+                   -webkit-transition: all 150ms;
+                   transition: all 150ms;
+               }
+               .b-adfeed.big .media{
+                   display: block;
+                   float: none;
+                   -webkit-border-radius: 2px;
+                   -moz-border-radius: 2px;
+                   border-radius: 2px;
+                   margin-bottom: 10px;
+                   overflow: hidden;
+                   width: 222px;
+                   height: 130px;
+               }
+               .b-adfeed.big .media img{
+                   display: block;
+                   width: 222px;
+                   height: 130px;
+               }
+               .b-adfeed.big .text{margin: 0}
+           
